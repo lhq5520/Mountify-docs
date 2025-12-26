@@ -1,0 +1,23 @@
+{
+  "id": "modules/authentication",
+  "title": "Authentication",
+  "description": "Design Philosophy",
+  "source": "@site/docs/modules/authentication.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/authentication",
+  "permalink": "/modules/authentication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Database Design",
+    "permalink": "/modules/database"
+  },
+  "next": {
+    "title": "Payment Processing",
+    "permalink": "/modules/payments"
+  }
+}

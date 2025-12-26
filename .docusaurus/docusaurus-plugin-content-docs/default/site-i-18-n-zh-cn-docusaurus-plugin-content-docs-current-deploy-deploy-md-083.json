@@ -1,0 +1,14 @@
+{
+  "id": "deploy/deploy",
+  "title": "线上演示与部署",
+  "description": "🌐 线上演示",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deploy/deploy.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/",
+  "permalink": "/zh-CN/deploy/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

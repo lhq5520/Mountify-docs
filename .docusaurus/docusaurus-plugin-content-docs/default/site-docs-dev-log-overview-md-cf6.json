@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/overview",
+  "title": "Development Log",
+  "description": "This section documents the chronological build process of Mountify, from initial MVP to production-ready platform.",
+  "source": "@site/docs/dev-log/overview.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/overview",
+  "permalink": "/dev-log/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UI/UX Design",
+    "permalink": "/modules/ui-design"
+  },
+  "next": {
+    "title": "Version 1: Foundation",
+    "permalink": "/dev-log/v1-foundation"
+  }
+}

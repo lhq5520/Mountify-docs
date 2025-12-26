@@ -1,0 +1,23 @@
+{
+  "id": "modules/authentication",
+  "title": "身份认证",
+  "description": "设计理念",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/modules/authentication.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/authentication",
+  "permalink": "/zh-CN/modules/authentication",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "数据库设计",
+    "permalink": "/zh-CN/modules/database"
+  },
+  "next": {
+    "title": "支付处理",
+    "permalink": "/zh-CN/modules/payments"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "当前版本",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Quick Start": {
+    "message": "快速开始",
+    "description": "The label for category Quick Start in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.How to deploy": {
+    "message": "部署指南",
+    "description": "The label for category How to deploy in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Architecture": {
+    "message": "系统架构",
+    "description": "The label for category Architecture in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Modules": {
+    "message": "功能模块",
+    "description": "The label for category Modules in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Development Log": {
+    "message": "开发日志",
+    "description": "The label for category Development Log in sidebar tutorialSidebar"
+  }
+}

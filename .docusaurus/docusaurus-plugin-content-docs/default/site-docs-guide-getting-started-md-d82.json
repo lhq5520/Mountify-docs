@@ -1,0 +1,23 @@
+{
+  "id": "guide/getting-started",
+  "title": "Getting Started",
+  "description": "Prerequisites",
+  "source": "@site/docs/guide/getting-started.md",
+  "sourceDirName": "guide",
+  "slug": "/guide/getting-started",
+  "permalink": "/guide/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mountify - Intro",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Deployment Guide",
+    "permalink": "/deploy/overview"
+  }
+}

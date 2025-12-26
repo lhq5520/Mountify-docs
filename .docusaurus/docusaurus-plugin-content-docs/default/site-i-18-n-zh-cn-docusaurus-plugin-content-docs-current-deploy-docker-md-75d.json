@@ -1,0 +1,23 @@
+{
+  "id": "deploy/docker",
+  "title": "Docker 部署",
+  "description": "推荐场景： 自托管 VPS，完全控制基础设施",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deploy/docker.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/docker",
+  "permalink": "/zh-CN/deploy/docker",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM2 部署",
+    "permalink": "/zh-CN/deploy/pm2"
+  },
+  "next": {
+    "title": "Mountify - 系统设计",
+    "permalink": "/zh-CN/architecture/overview"
+  }
+}

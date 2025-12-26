@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/v1-foundation",
+  "title": "v1.0 - 基础搭建",
+  "description": "概述",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/dev-log/v1-foundation.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/v1-foundation",
+  "permalink": "/zh-CN/dev-log/v1-foundation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "开发日志",
+    "permalink": "/zh-CN/dev-log/overview"
+  },
+  "next": {
+    "title": "v2.0 - 数据库与支付",
+    "permalink": "/zh-CN/dev-log/v2-database-payments"
+  }
+}

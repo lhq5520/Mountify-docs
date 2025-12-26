@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Mountify - Intro",
+  "description": "A production-grade e-commerce platform built with Next.js",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "title": "Mountify - Intro",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/guide/getting-started"
+  }
+}

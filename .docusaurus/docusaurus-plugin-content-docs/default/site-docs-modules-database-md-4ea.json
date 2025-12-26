@@ -1,0 +1,23 @@
+{
+  "id": "modules/database",
+  "title": "Database Design",
+  "description": "Design Philosophy",
+  "source": "@site/docs/modules/database.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/database",
+  "permalink": "/modules/database",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mountify - System Design",
+    "permalink": "/architecture/overview"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/modules/authentication"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "deploy/vercel",
+  "title": "Vercel 部署",
+  "description": "推荐场景： 最快部署，零服务器管理",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deploy/vercel.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/vercel",
+  "permalink": "/zh-CN/deploy/vercel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "部署指南",
+    "permalink": "/zh-CN/deploy/overview"
+  },
+  "next": {
+    "title": "PM2 部署",
+    "permalink": "/zh-CN/deploy/pm2"
+  }
+}

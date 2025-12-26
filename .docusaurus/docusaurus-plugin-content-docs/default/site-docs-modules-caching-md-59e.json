@@ -1,0 +1,23 @@
+{
+  "id": "modules/caching",
+  "title": "Caching & Performance",
+  "description": "Design Philosophy",
+  "source": "@site/docs/modules/caching.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/caching",
+  "permalink": "/modules/caching",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Payment Processing",
+    "permalink": "/modules/payments"
+  },
+  "next": {
+    "title": "Security",
+    "permalink": "/modules/security"
+  }
+}

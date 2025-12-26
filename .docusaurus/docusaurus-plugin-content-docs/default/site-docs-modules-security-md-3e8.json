@@ -1,0 +1,23 @@
+{
+  "id": "modules/security",
+  "title": "Security",
+  "description": "Defense in Depth",
+  "source": "@site/docs/modules/security.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/security",
+  "permalink": "/modules/security",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Caching & Performance",
+    "permalink": "/modules/caching"
+  },
+  "next": {
+    "title": "UI/UX Design",
+    "permalink": "/modules/ui-design"
+  }
+}

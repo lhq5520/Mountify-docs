@@ -1,0 +1,14 @@
+{
+  "id": "dev-log/ui-security",
+  "title": "ui-security",
+  "description": "",
+  "source": "@site/docs/dev-log/ui-security.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/ui-security",
+  "permalink": "/dev-log/ui-security",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

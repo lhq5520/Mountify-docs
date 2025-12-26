@@ -1,0 +1,23 @@
+{
+  "id": "modules/ui-design",
+  "title": "UI/UX Design",
+  "description": "Design Philosophy",
+  "source": "@site/docs/modules/ui-design.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/ui-design",
+  "permalink": "/modules/ui-design",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security",
+    "permalink": "/modules/security"
+  },
+  "next": {
+    "title": "Development Log",
+    "permalink": "/dev-log/overview"
+  }
+}

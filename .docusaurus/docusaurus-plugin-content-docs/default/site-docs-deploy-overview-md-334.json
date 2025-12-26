@@ -1,0 +1,23 @@
+{
+  "id": "deploy/overview",
+  "title": "Deployment Guide",
+  "description": "Choose the deployment method that best fits your needs.",
+  "source": "@site/docs/deploy/overview.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/overview",
+  "permalink": "/deploy/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/guide/getting-started"
+  },
+  "next": {
+    "title": "Deploy with Vercel",
+    "permalink": "/deploy/vercel"
+  }
+}

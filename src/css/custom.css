@@ -1,0 +1,119 @@
+:root {
+  --ifm-color-primary: #007aff;
+  --ifm-color-primary-dark: #006be6;
+  --ifm-color-primary-darker: #0065d9;
+  --ifm-color-primary-darkest: #0053b3;
+  --ifm-color-primary-light: #198aff;
+  --ifm-color-primary-lighter: #2691ff;
+  --ifm-color-primary-lightest: #4da3ff;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 122, 255, 0.1);
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #4da3ff;
+  --ifm-color-primary-dark: #2c92ff;
+  --ifm-color-primary-darker: #1a88ff;
+  --ifm-color-primary-darkest: #006be6;
+  --ifm-color-primary-light: #6eb4ff;
+  --ifm-color-primary-lighter: #80beff;
+  --ifm-color-primary-lightest: #b3d9ff;
+  --docusaurus-highlighted-code-line-bg: rgba(77, 163, 255, 0.15);
+}
+
+.hero {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.hero__title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  opacity: 0.9;
+}
+
+/* Documentation specific styles */
+.markdown h1:first-child {
+  font-size: 2rem;
+}
+
+.markdown code {
+  border-radius: 4px;
+}
+
+/* Table improvements */
+table {
+  display: table;
+  width: 100%;
+}
+
+table th {
+  background-color: var(--ifm-color-primary-lightest);
+  font-weight: 600;
+}
+
+[data-theme='dark'] table th {
+  background-color: rgba(77, 163, 255, 0.2);
+}
+
+/* Admonition custom styling */
+.alert--info {
+  border-left-color: var(--ifm-color-primary);
+}
+
+/* Code block improvements */
+.prism-code {
+  font-size: 0.9rem;
+}
+
+/* Feature cards on home page */
+.feature-card {
+  padding: 1.5rem;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.feature-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Version badges */
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.badge--success {
+  background-color: #10b981;
+  color: white;
+}
+
+.badge--warning {
+  background-color: #f59e0b;
+  color: white;
+}
+
+.badge--danger {
+  background-color: #ef4444;
+  color: white;
+}
+
+/* Sidebar improvements */
+.menu__link {
+  border-radius: 6px;
+}
+
+.menu__link--active {
+  background-color: rgba(0, 122, 255, 0.1);
+}

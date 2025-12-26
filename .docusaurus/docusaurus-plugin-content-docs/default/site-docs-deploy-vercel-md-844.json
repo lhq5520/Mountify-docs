@@ -1,0 +1,23 @@
+{
+  "id": "deploy/vercel",
+  "title": "Deploy with Vercel",
+  "description": "Recommended for: Fastest deployment, zero server management",
+  "source": "@site/docs/deploy/vercel.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/vercel",
+  "permalink": "/deploy/vercel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deployment Guide",
+    "permalink": "/deploy/overview"
+  },
+  "next": {
+    "title": "Deploy with PM2",
+    "permalink": "/deploy/pm2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "deploy/pm2",
+  "title": "Deploy with PM2",
+  "description": "Recommended for: Simple VPS deployment without containerization",
+  "source": "@site/docs/deploy/pm2.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/pm2",
+  "permalink": "/deploy/pm2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy with Vercel",
+    "permalink": "/deploy/vercel"
+  },
+  "next": {
+    "title": "Deploy with Docker",
+    "permalink": "/deploy/docker"
+  }
+}

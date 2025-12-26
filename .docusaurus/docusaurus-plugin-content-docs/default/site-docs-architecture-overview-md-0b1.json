@@ -1,0 +1,23 @@
+{
+  "id": "architecture/overview",
+  "title": "Mountify - System Design",
+  "description": "Architecture Overview",
+  "source": "@site/docs/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/overview",
+  "permalink": "/architecture/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy with Docker",
+    "permalink": "/deploy/docker"
+  },
+  "next": {
+    "title": "Database Design",
+    "permalink": "/modules/database"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/v2-database-payments",
+  "title": "Version 2: Database & Stripe",
+  "description": "Focus: PostgreSQL Integration, Stripe Checkout, Webhooks",
+  "source": "@site/docs/dev-log/v2-database-payments.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/v2-database-payments",
+  "permalink": "/dev-log/v2-database-payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Version 1: Foundation",
+    "permalink": "/dev-log/v1-foundation"
+  },
+  "next": {
+    "title": "Version 3: UI/UX & Security",
+    "permalink": "/dev-log/v3-ui-security"
+  }
+}

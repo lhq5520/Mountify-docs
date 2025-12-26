@@ -1,0 +1,23 @@
+{
+  "id": "modules/payments",
+  "title": "支付处理",
+  "description": "设计理念",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/modules/payments.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/payments",
+  "permalink": "/zh-CN/modules/payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "身份认证",
+    "permalink": "/zh-CN/modules/authentication"
+  },
+  "next": {
+    "title": "缓存与性能",
+    "permalink": "/zh-CN/modules/caching"
+  }
+}

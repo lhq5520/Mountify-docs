@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/v4-auth-redis",
+  "title": "v4.0 - 认证与缓存（MVP）",
+  "description": "概述",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/dev-log/v4-auth-redis.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/v4-auth-redis",
+  "permalink": "/zh-CN/dev-log/v4-auth-redis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "v3.0 - UI/UX 与安全",
+    "permalink": "/zh-CN/dev-log/v3-ui-security"
+  },
+  "next": {
+    "title": "v5.0 - 管理后台",
+    "permalink": "/zh-CN/dev-log/v5-admin-features"
+  }
+}

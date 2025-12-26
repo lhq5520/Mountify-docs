@@ -1,0 +1,23 @@
+{
+  "id": "deploy/docker",
+  "title": "Deploy with Docker",
+  "description": "Recommended for: Self-hosted VPS, full control over infrastructure",
+  "source": "@site/docs/deploy/docker.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/docker",
+  "permalink": "/deploy/docker",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy with PM2",
+    "permalink": "/deploy/pm2"
+  },
+  "next": {
+    "title": "Mountify - System Design",
+    "permalink": "/architecture/overview"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/v5-admin-features",
+  "title": "v5.0 - 管理后台",
+  "description": "概述",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/dev-log/v5-admin-features.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/v5-admin-features",
+  "permalink": "/zh-CN/dev-log/v5-admin-features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "v4.0 - 认证与缓存（MVP）",
+    "permalink": "/zh-CN/dev-log/v4-auth-redis"
+  },
+  "next": {
+    "title": "v6.0 - 物流与邮件",
+    "permalink": "/zh-CN/dev-log/v6-shipping"
+  }
+}

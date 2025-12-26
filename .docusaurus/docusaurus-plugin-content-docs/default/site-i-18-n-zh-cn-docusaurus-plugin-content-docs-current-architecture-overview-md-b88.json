@@ -1,0 +1,23 @@
+{
+  "id": "architecture/overview",
+  "title": "Mountify - 系统设计",
+  "description": "架构概览",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/architecture/overview.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/overview",
+  "permalink": "/zh-CN/architecture/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Docker 部署",
+    "permalink": "/zh-CN/deploy/docker"
+  },
+  "next": {
+    "title": "数据库设计",
+    "permalink": "/zh-CN/modules/database"
+  }
+}

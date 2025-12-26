@@ -1,0 +1,19 @@
+{
+  "id": "dev-log/v6-shipping",
+  "title": "Version 6: Shipping Integration",
+  "description": "Focus: 17track API, Tracking UI, Shipping Notifications",
+  "source": "@site/docs/dev-log/v6-shipping.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/v6-shipping",
+  "permalink": "/dev-log/v6-shipping",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Version 5: Admin & Features",
+    "permalink": "/dev-log/v5-admin-features"
+  }
+}

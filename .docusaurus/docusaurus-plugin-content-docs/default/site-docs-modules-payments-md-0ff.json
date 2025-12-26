@@ -1,0 +1,23 @@
+{
+  "id": "modules/payments",
+  "title": "Payment Processing",
+  "description": "Design Philosophy",
+  "source": "@site/docs/modules/payments.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/payments",
+  "permalink": "/modules/payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Authentication",
+    "permalink": "/modules/authentication"
+  },
+  "next": {
+    "title": "Caching & Performance",
+    "permalink": "/modules/caching"
+  }
+}

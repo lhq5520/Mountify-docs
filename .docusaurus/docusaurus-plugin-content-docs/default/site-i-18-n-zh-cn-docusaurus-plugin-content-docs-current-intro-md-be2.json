@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Mountify - 简介",
+  "description": "基于 Next.js 构建的生产级电商平台",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/zh-CN/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "title": "Mountify - 简介",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "快速开始",
+    "permalink": "/zh-CN/guide/getting-started"
+  }
+}

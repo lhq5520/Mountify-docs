@@ -1,0 +1,23 @@
+{
+  "id": "modules/ui-design",
+  "title": "UI/UX 设计",
+  "description": "设计理念",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/modules/ui-design.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/ui-design",
+  "permalink": "/zh-CN/modules/ui-design",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "安全机制",
+    "permalink": "/zh-CN/modules/security"
+  },
+  "next": {
+    "title": "开发日志",
+    "permalink": "/zh-CN/dev-log/overview"
+  }
+}

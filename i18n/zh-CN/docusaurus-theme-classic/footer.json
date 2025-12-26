@@ -1,0 +1,46 @@
+{
+  "link.title.Documentation": {
+    "message": "文档",
+    "description": "The title of the footer links column with title=Documentation in the footer"
+  },
+  "link.title.Modules": {
+    "message": "功能模块",
+    "description": "The title of the footer links column with title=Modules in the footer"
+  },
+  "link.title.More": {
+    "message": "更多",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Getting Started": {
+    "message": "快速开始",
+    "description": "The label of footer link with label=Getting Started linking to /guide/getting-started"
+  },
+  "link.item.label.Architecture": {
+    "message": "系统架构",
+    "description": "The label of footer link with label=Architecture linking to /architecture/overview"
+  },
+  "link.item.label.Authentication": {
+    "message": "身份认证",
+    "description": "The label of footer link with label=Authentication linking to /modules/authentication"
+  },
+  "link.item.label.Payments": {
+    "message": "支付系统",
+    "description": "The label of footer link with label=Payments linking to /modules/payments"
+  },
+  "link.item.label.Caching": {
+    "message": "缓存策略",
+    "description": "The label of footer link with label=Caching linking to /modules/caching"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/lhq5520/Mountify-Commerce"
+  },
+  "link.item.label.Development Log": {
+    "message": "开发日志",
+    "description": "The label of footer link with label=Development Log linking to /dev-log/overview"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Mountify. 使用 Docusaurus 构建。",
+    "description": "The footer copyright"
+  }
+}

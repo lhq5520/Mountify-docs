@@ -1,0 +1,23 @@
+{
+  "id": "deploy/pm2",
+  "title": "PM2 部署",
+  "description": "推荐场景： 简单 VPS 部署，无需容器化",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deploy/pm2.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/pm2",
+  "permalink": "/zh-CN/deploy/pm2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vercel 部署",
+    "permalink": "/zh-CN/deploy/vercel"
+  },
+  "next": {
+    "title": "Docker 部署",
+    "permalink": "/zh-CN/deploy/docker"
+  }
+}

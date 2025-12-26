@@ -1,0 +1,14 @@
+{
+  "id": "deploy/deploy",
+  "title": "Live Demo & Deployment",
+  "description": "🌐 Live Demo",
+  "source": "@site/docs/deploy/deploy.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/",
+  "permalink": "/deploy/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

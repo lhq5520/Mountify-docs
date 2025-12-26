@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/overview",
+  "title": "开发日志",
+  "description": "本章节记录了 Mountify 从初始 MVP 到生产就绪平台的时间顺序开发过程。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/dev-log/overview.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/overview",
+  "permalink": "/zh-CN/dev-log/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UI/UX 设计",
+    "permalink": "/zh-CN/modules/ui-design"
+  },
+  "next": {
+    "title": "v1.0 - 基础搭建",
+    "permalink": "/zh-CN/dev-log/v1-foundation"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "deploy/overview",
+  "title": "部署指南",
+  "description": "选择最适合你需求的部署方式。",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/deploy/overview.md",
+  "sourceDirName": "deploy",
+  "slug": "/deploy/overview",
+  "permalink": "/zh-CN/deploy/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "快速开始",
+    "permalink": "/zh-CN/guide/getting-started"
+  },
+  "next": {
+    "title": "Vercel 部署",
+    "permalink": "/zh-CN/deploy/vercel"
+  }
+}

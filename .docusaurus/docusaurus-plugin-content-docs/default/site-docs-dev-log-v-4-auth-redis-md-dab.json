@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/v4-auth-redis",
+  "title": "Version 4: Auth & Redis (MVP)",
+  "description": "Focus: NextAuth, Redis Caching, Rate Limiting",
+  "source": "@site/docs/dev-log/v4-auth-redis.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/v4-auth-redis",
+  "permalink": "/dev-log/v4-auth-redis",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Version 3: UI/UX & Security",
+    "permalink": "/dev-log/v3-ui-security"
+  },
+  "next": {
+    "title": "Version 5: Admin & Features",
+    "permalink": "/dev-log/v5-admin-features"
+  }
+}

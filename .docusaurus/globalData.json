@@ -1,0 +1,132 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/zh-CN/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "当前版本",
+          "isLast": true,
+          "path": "/zh-CN/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "architecture/overview",
+              "path": "/zh-CN/architecture/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy/deploy",
+              "path": "/zh-CN/deploy/"
+            },
+            {
+              "id": "deploy/docker",
+              "path": "/zh-CN/deploy/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy/overview",
+              "path": "/zh-CN/deploy/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy/pm2",
+              "path": "/zh-CN/deploy/pm2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "deploy/vercel",
+              "path": "/zh-CN/deploy/vercel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-log/overview",
+              "path": "/zh-CN/dev-log/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-log/v1-foundation",
+              "path": "/zh-CN/dev-log/v1-foundation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-log/v2-database-payments",
+              "path": "/zh-CN/dev-log/v2-database-payments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-log/v3-ui-security",
+              "path": "/zh-CN/dev-log/v3-ui-security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-log/v4-auth-redis",
+              "path": "/zh-CN/dev-log/v4-auth-redis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-log/v5-admin-features",
+              "path": "/zh-CN/dev-log/v5-admin-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dev-log/v6-shipping",
+              "path": "/zh-CN/dev-log/v6-shipping",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "guide/getting-started",
+              "path": "/zh-CN/guide/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/zh-CN/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/authentication",
+              "path": "/zh-CN/modules/authentication",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/caching",
+              "path": "/zh-CN/modules/caching",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/database",
+              "path": "/zh-CN/modules/database",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/payments",
+              "path": "/zh-CN/modules/payments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/security",
+              "path": "/zh-CN/modules/security",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modules/ui-design",
+              "path": "/zh-CN/modules/ui-design",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/zh-CN/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

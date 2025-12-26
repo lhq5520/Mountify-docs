@@ -1,0 +1,23 @@
+{
+  "id": "modules/security",
+  "title": "安全机制",
+  "description": "纵深防御",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/modules/security.md",
+  "sourceDirName": "modules",
+  "slug": "/modules/security",
+  "permalink": "/zh-CN/modules/security",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "缓存与性能",
+    "permalink": "/zh-CN/modules/caching"
+  },
+  "next": {
+    "title": "UI/UX 设计",
+    "permalink": "/zh-CN/modules/ui-design"
+  }
+}

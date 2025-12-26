@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/v2-database-payments",
+  "title": "v2.0 - 数据库与支付",
+  "description": "概述",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/dev-log/v2-database-payments.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/v2-database-payments",
+  "permalink": "/zh-CN/dev-log/v2-database-payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "v1.0 - 基础搭建",
+    "permalink": "/zh-CN/dev-log/v1-foundation"
+  },
+  "next": {
+    "title": "v3.0 - UI/UX 与安全",
+    "permalink": "/zh-CN/dev-log/v3-ui-security"
+  }
+}

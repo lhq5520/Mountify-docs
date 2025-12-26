@@ -1,0 +1,23 @@
+{
+  "id": "dev-log/v3-ui-security",
+  "title": "Version 3: UI/UX & Security",
+  "description": "Focus: Design System, Price Validation, Loading States",
+  "source": "@site/docs/dev-log/v3-ui-security.md",
+  "sourceDirName": "dev-log",
+  "slug": "/dev-log/v3-ui-security",
+  "permalink": "/dev-log/v3-ui-security",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Version 2: Database & Stripe",
+    "permalink": "/dev-log/v2-database-payments"
+  },
+  "next": {
+    "title": "Version 4: Auth & Redis (MVP)",
+    "permalink": "/dev-log/v4-auth-redis"
+  }
+}

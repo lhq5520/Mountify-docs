@@ -1,0 +1,23 @@
+{
+  "id": "guide/getting-started",
+  "title": "快速开始",
+  "description": "前置要求",
+  "source": "@site/i18n/zh-CN/docusaurus-plugin-content-docs/current/guide/getting-started.md",
+  "sourceDirName": "guide",
+  "slug": "/guide/getting-started",
+  "permalink": "/zh-CN/guide/getting-started",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Mountify - 简介",
+    "permalink": "/zh-CN/"
+  },
+  "next": {
+    "title": "部署指南",
+    "permalink": "/zh-CN/deploy/overview"
+  }
+}
