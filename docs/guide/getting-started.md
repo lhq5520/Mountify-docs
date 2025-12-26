@@ -16,7 +16,7 @@ cd Mountify-Commerce
 npm install
 ```
 
-## Environment Setup
+## Environment Setup {#environment-setup}
 
 Create `.env.local`:
 

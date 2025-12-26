@@ -31,6 +31,22 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
+  // local search
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        language: ['en', 'zh'],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        docsRouteBasePath: '/',
+        indexBlog: false,
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/mountify-social-card.jpg',
     navbar: {
